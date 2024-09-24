@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+int n, capacity;
+printf("Enter number of items and capacity: ");
+scanf("%d %d", &n, &capacity);
